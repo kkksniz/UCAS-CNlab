@@ -4,6 +4,8 @@
 *.synctex.gz
 *.tex
 
+*.zip
+
 reports/
 
 references/
