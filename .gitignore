@@ -1,0 +1,11 @@
+
+*.et
+*.xls
+*.synctex.gz
+*.tex
+
+reports/
+
+圣遗物/
+
+lectures/
