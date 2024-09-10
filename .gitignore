@@ -1,13 +1,15 @@
 
+# 数据及报告产生的额外文件
 *.et
 *.xls
 *.synctex.gz
 *.tex
-
+# 实验环境
 *.zip
 
+# 课程报告模板
 reports/
-
+# 圣遗物
 references/
-
+# 课程讲义
 lectures/
